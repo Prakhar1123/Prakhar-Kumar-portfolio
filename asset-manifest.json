@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Prakhar-Kumar-portfolio/static/css/main.518e77eb.css",
-    "main.js": "/Prakhar-Kumar-portfolio/static/js/main.8fdc4611.js",
+    "main.js": "/Prakhar-Kumar-portfolio/static/js/main.9e3afabc.js",
     "static/js/787.f02f1b0a.chunk.js": "/Prakhar-Kumar-portfolio/static/js/787.f02f1b0a.chunk.js",
     "static/media/adidas1.jpg": "/Prakhar-Kumar-portfolio/static/media/adidas1.edad8651a6a102ca576d.jpg",
     "static/media/puma1.jpg": "/Prakhar-Kumar-portfolio/static/media/puma1.e88a715c39f854192759.jpg",
@@ -16,11 +16,11 @@
     "static/media/mysql.png": "/Prakhar-Kumar-portfolio/static/media/mysql.71ed292fc8a291f7d77d.png",
     "index.html": "/Prakhar-Kumar-portfolio/index.html",
     "main.518e77eb.css.map": "/Prakhar-Kumar-portfolio/static/css/main.518e77eb.css.map",
-    "main.8fdc4611.js.map": "/Prakhar-Kumar-portfolio/static/js/main.8fdc4611.js.map",
+    "main.9e3afabc.js.map": "/Prakhar-Kumar-portfolio/static/js/main.9e3afabc.js.map",
     "787.f02f1b0a.chunk.js.map": "/Prakhar-Kumar-portfolio/static/js/787.f02f1b0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.518e77eb.css",
-    "static/js/main.8fdc4611.js"
+    "static/js/main.9e3afabc.js"
   ]
 }
