@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Prakhar-Kumar-portfolio/static/css/main.518e77eb.css",
-    "main.js": "/Prakhar-Kumar-portfolio/static/js/main.9e3afabc.js",
-    "static/js/787.f02f1b0a.chunk.js": "/Prakhar-Kumar-portfolio/static/js/787.f02f1b0a.chunk.js",
-    "static/media/adidas1.jpg": "/Prakhar-Kumar-portfolio/static/media/adidas1.edad8651a6a102ca576d.jpg",
-    "static/media/puma1.jpg": "/Prakhar-Kumar-portfolio/static/media/puma1.e88a715c39f854192759.jpg",
-    "static/media/puma2.jpg": "/Prakhar-Kumar-portfolio/static/media/puma2.9f289c5f06669811bdf9.jpg",
-    "static/media/todo1.jpg": "/Prakhar-Kumar-portfolio/static/media/todo1.7042139f0201aa7852e5.jpg",
-    "static/media/prakhar.jpg": "/Prakhar-Kumar-portfolio/static/media/prakhar.a0958d30ee5f4008417d.jpg",
-    "static/media/todo3.jpg": "/Prakhar-Kumar-portfolio/static/media/todo3.3c716b7b06fd0a32fec1.jpg",
-    "static/media/captain.jpg": "/Prakhar-Kumar-portfolio/static/media/captain.3b37b3949479ffb0f81d.jpg",
-    "static/media/todo2.jpg": "/Prakhar-Kumar-portfolio/static/media/todo2.cbd4d7964cdafceefe11.jpg",
-    "static/media/ironman.jpg": "/Prakhar-Kumar-portfolio/static/media/ironman.b69f56e6181198b5e4a1.jpg",
-    "static/media/thor.jpg": "/Prakhar-Kumar-portfolio/static/media/thor.2db21079eb9b14d66091.jpg",
-    "static/media/mysql.png": "/Prakhar-Kumar-portfolio/static/media/mysql.71ed292fc8a291f7d77d.png",
-    "index.html": "/Prakhar-Kumar-portfolio/index.html",
-    "main.518e77eb.css.map": "/Prakhar-Kumar-portfolio/static/css/main.518e77eb.css.map",
-    "main.9e3afabc.js.map": "/Prakhar-Kumar-portfolio/static/js/main.9e3afabc.js.map",
-    "787.f02f1b0a.chunk.js.map": "/Prakhar-Kumar-portfolio/static/js/787.f02f1b0a.chunk.js.map"
+    "main.css": "/prakharnew/static/css/main.ea3546ae.css",
+    "main.js": "/prakharnew/static/js/main.f51e79fa.js",
+    "static/js/787.189061d6.chunk.js": "/prakharnew/static/js/787.189061d6.chunk.js",
+    "static/media/adidas1.jpg": "/prakharnew/static/media/adidas1.edad8651a6a102ca576d.jpg",
+    "static/media/puma1.jpg": "/prakharnew/static/media/puma1.e88a715c39f854192759.jpg",
+    "static/media/puma2.jpg": "/prakharnew/static/media/puma2.9f289c5f06669811bdf9.jpg",
+    "static/media/todo1.jpg": "/prakharnew/static/media/todo1.7042139f0201aa7852e5.jpg",
+    "static/media/prakhar.jpg": "/prakharnew/static/media/prakhar.a0958d30ee5f4008417d.jpg",
+    "static/media/todo3.jpg": "/prakharnew/static/media/todo3.3c716b7b06fd0a32fec1.jpg",
+    "static/media/captain.jpg": "/prakharnew/static/media/captain.800f6fc23bc785267f85.jpg",
+    "static/media/todo2.jpg": "/prakharnew/static/media/todo2.cbd4d7964cdafceefe11.jpg",
+    "static/media/ironman.jpg": "/prakharnew/static/media/ironman.b69f56e6181198b5e4a1.jpg",
+    "static/media/thor.jpg": "/prakharnew/static/media/thor.2db21079eb9b14d66091.jpg",
+    "static/media/mysql.png": "/prakharnew/static/media/mysql.71ed292fc8a291f7d77d.png",
+    "index.html": "/prakharnew/index.html",
+    "main.ea3546ae.css.map": "/prakharnew/static/css/main.ea3546ae.css.map",
+    "main.f51e79fa.js.map": "/prakharnew/static/js/main.f51e79fa.js.map",
+    "787.189061d6.chunk.js.map": "/prakharnew/static/js/787.189061d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.518e77eb.css",
-    "static/js/main.9e3afabc.js"
+    "static/css/main.ea3546ae.css",
+    "static/js/main.f51e79fa.js"
   ]
 }
